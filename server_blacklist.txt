@@ -2,8 +2,272 @@
 {
 	"server"
 	{
-		"name"		"193.233.80.244:0"
+		"name"		"RUSSIA SPAM SERVER"
 		"date"		"1703917473"
-		"addr"		"193.233.80.244:0"
+		"addr"		"146.185.196.17:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"146.185.198.11:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"146.185.199.60:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"146.185.215.50:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"146.185.218.172:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"151.252.104.37:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"185.135.86.224:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"185.158.114.143:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"185.234.114.182:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"185.248.100.98:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"188.127.224.78:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"192.145.99.55:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"193.169.228.28:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"193.19.119.97:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"193.42.112.106:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"194.38.8.53:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"194.38.9.141:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"195.238.126.252:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"195.62.52.237:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"212.113.120.63:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"217.30.10.14:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"45.128.185.230:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"45.140.146.234:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"45.144.64.196:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"45.144.64.196:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"45.153.68.222:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"45.89.190.236:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"45.89.55.24:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"46.102.237.65:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"5.101.218.188:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"5.182.37.165:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"5.182.38.136:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"5.189.201.24:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"5.252.193.7:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"5.252.23.61:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"62.173.149.184:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"80.90.182.187:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"81.200.144.48:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"85.143.222.91:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"87.236.146.117:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"89.111.140.62:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"91.243.84.28:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"92.38.130.240:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"92.38.130.31:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1703917473"
+		"addr"		"93.85.88.24:0"
 	}
 }
