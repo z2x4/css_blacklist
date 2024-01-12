@@ -300,4 +300,16 @@
 		"date"		"1704848135"
 		"addr"		"185.84.162.112:0"
 	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1704848135"
+		"addr"		"77.222.37.82:0"
+	}
+	"server"
+	{
+		"name"		"RUSSIA SPAM SERVER"
+		"date"		"1704848135"
+		"addr"		"51.68.143.140:0"
+	}
 }
