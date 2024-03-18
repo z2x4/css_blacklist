@@ -1,7 +1,6 @@
 Add to Steam\steamapps\common\counter-strike source\cstrike\cfg or import the blacklist file.
 
-Introduction
-This is a introduction to fixing the server browser spam in CS:S
+This is a guide how to fix the server browser spam in Counter-Strike: Source
 
 The spam looks like this:
 
