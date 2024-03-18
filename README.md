@@ -10,7 +10,7 @@ The spam looks like this:
 
 Importing a server blacklist
 First things first, you want to download the server blacklist from here
-![image](https://github.com/z2x4/css_blacklist/assets/144192638/2afe57d8-4dfc-4403-a508-6e513de787c6)
+![image](https://github.com/z2x4/css_blacklist/assets/144192638/a3376810-2e0a-4172-93c6-bd9f656248b7)
 
 The latter are just fake servers, that you can't even connect to because the IPs are fake.
 In this guide I will be showing you how to fix it.
