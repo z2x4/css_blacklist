@@ -2,9 +2,8 @@ Add to Steam\steamapps\common\counter-strike source\cstrike\cfg or import the bl
 
 Introduction
 This is a introduction to fixing the server browser spam in CS:S
-This spam looks like thi
 
-Example:
+The spam looks like this:
 
 ![image](https://github.com/z2x4/css_blacklist/assets/144192638/29416dbe-5730-41d5-af5f-35b7a8a516b8)
 
