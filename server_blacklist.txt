@@ -294,4 +294,16 @@
 		"date"		"1710397529"
 		"addr"		"185.248.103.141:0"
 	}
+	"server"
+	{
+		"name"		"Russia Spam Server"
+		"date"		"1710397529"
+		"addr"		"77.222.37.207:0"
+	}
+	"server"
+	{
+		"name"		"Russia Spam Server"
+		"date"		"1710397529"
+		"addr"		"109.248.11.124:0"
+	}
 }
