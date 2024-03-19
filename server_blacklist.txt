@@ -246,4 +246,52 @@
 		"date"		"1710397529"
 		"addr"		"45.59.170.64:0"
 	}
+	"server"
+	{
+		"name"		"Russia Spam Server"
+		"date"		"1710397529"
+		"addr"		"51.68.143.140:0"
+	}
+	"server"
+	{
+		"name"		"Russia Spam Server"
+		"date"		"1710397529"
+		"addr"		"91.217.77.139:0"
+	}
+	"server"
+	{
+		"name"		"Russia Spam Server"
+		"date"		"1710397529"
+		"addr"		"85.159.228.29:0"
+	}
+	"server"
+	{
+		"name"		"Russia Spam Server"
+		"date"		"1710397529"
+		"addr"		"91.217.77.132:0"
+	}
+	"server"
+	{
+		"name"		"Russia Spam Server"
+		"date"		"1710397529"
+		"addr"		"91.217.77.130:0"
+	}
+	"server"
+	{
+		"name"		"Russia Spam Server"
+		"date"		"1710397529"
+		"addr"		"91.217.77.131:0"
+	}
+	"server"
+	{
+		"name"		"Russia Spam Server"
+		"date"		"1710397529"
+		"addr"		"91.227.18.156:0"
+	}
+	"server"
+	{
+		"name"		"Russia Spam Server"
+		"date"		"1710397529"
+		"addr"		"185.248.103.141:0"
+	}
 }
